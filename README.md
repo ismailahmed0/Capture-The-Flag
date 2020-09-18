@@ -3,5 +3,5 @@ An Unreal Engine first-person three-dimensional game that I designed with bluepr
 
 Instructions:
   - Requires Microsoft Windows OS
-  - You do not have to install Unreal Engine on your own
+  - You do not have to install Unreal Engine
   - Unzip Files.zip and place the two folders in the same directory as CaptureTheFlag.exe
